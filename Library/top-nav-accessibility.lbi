@@ -1,0 +1,9 @@
+
+        <ul>
+          <li>
+            <a id="skip" href="#topH1" title="skip to content">Skip to Content</a>
+          </li>
+          <li>
+            <a id="helpLink" href="https://www.calpoly.edu/help.html" title="help">?</a>
+          </li>
+        </ul>

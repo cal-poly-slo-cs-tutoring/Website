@@ -1,7 +1,0 @@
-                            
-              <form method="get" title="Search Form" action="https://www.calpoly.edu/search/?q=">
-                <div id="mobileSearchForm" style="min-width: 200px; max-width: 300px; margin: 5px auto 8px auto;">               
-                  <input id="mobileSearchField" type="text" style="width: 85%;" maxlength="256" placeholder="Search" title="Search this site" name="q">
-                  <input id="mobileSearchSubmit" type="button" value="GO" title="Submit Search Query" name="submit">
-                </div>
-              </form> 
