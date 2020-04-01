@@ -1,0 +1,9 @@
+            
+            <div id="search">
+              <form method="get" title="Search Form" action="https://www.calpoly.edu/search/?q=">
+                <div>
+                  <input id="searchField" type="text" maxlength="256" placeholder="Search" title="Search this site" name="q" alt="Search Text" />
+                  <input id="searchSubmit" type="image" name="submit" title="Submit Search Query" alt="Go" src="../common/images_html/header/search-arrow.png" />
+                </div>
+              </form>
+            </div>
