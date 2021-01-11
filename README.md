@@ -43,4 +43,4 @@ The "Skip to Content" link expects a `id=topH1` somewhere to mark the start of
 content.
 
 ## Deployments
-Deployments are done via [DeployHQ](https://cal-poly-csse-tutoring-center.deployhq.com/) and are automatically triggered when you push to `master`. Keep in mind we're limited to 10 per day, and see the Google Drive folder in the Slack for more information.
+Deployments are done via [DeployHQ](https://cal-poly-csse-tutoring-center.deployhq.com/) and are automatically triggered when you push to `mainline`. Keep in mind we're limited to 10 per day, and see the Google Drive folder in the Slack for more information.
